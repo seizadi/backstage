@@ -1,5 +1,21 @@
 # @backstage/plugin-catalog
 
+## 0.3.1
+
+### Patch Changes
+
+- 6ed2b47d6: Include Backstage identity token in requests to backend plugins.
+- f5e564cd6: Improve display of error messages
+- 9230d07e7: Fix whitespace around variable in unregister error dialog box
+- Updated dependencies [6ed2b47d6]
+- Updated dependencies [72b96e880]
+- Updated dependencies [19d354c78]
+- Updated dependencies [b51ee6ece]
+  - @backstage/catalog-client@0.3.6
+  - @backstage/plugin-scaffolder@0.5.0
+  - @backstage/plugin-catalog-react@0.0.3
+  - @backstage/core@0.6.1
+
 ## 0.3.0
 
 ### Minor Changes
